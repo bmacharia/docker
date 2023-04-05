@@ -1,4 +1,4 @@
-# Learnng Docker
+# Learning Docker
 
 This repository is meant to learn Docker. 
 Docker is a popular tool used for containerization, which allows you to package up an application with all of its dependencies and run it in any environment.
